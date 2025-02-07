@@ -1,0 +1,2 @@
+New-Item -ItemType File src/components/Header.js
+New-Item -ItemType File src/components/Footer.js
